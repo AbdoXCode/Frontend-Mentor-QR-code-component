@@ -1,7 +1,7 @@
 body {
   margin: 0;
   min-height: 100vh;
-  font-family: "Outfit";
+  font-family: "Outfit", sans-serif;
   display: flex;
   background-color: #d5e1ef;
   justify-content: center; /* Centers horizontally */
@@ -10,8 +10,8 @@ body {
 
 .box {
   background-color: #ffffff;
-  width: 320px;
-  height: 499px;
+  width: 20rem;
+  height: 32rem;
   border-radius: 20px;
   box-shadow: 0 5px #00000005;
 }
@@ -39,7 +39,7 @@ body {
   font-weight: bold;
 }
 .second-p {
-  font-size: 15px;
+  font-size: 16px;
   color: #68778d;
   line-height: 140%;
   letter-spacing: 0.2px;
